@@ -1,5 +1,5 @@
 ## Hi there 👋
-#I'm Joseph
+# I'm Joseph
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
