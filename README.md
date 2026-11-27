@@ -44,3 +44,5 @@ Principais desafios: <br>
 <a href="https://github.com/BruceFonseca2/AdventureWorksPortfolio">
   Clique Aqui Para Acessar o Repositorio no GitHub
 </a>
+<br>
+<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9"> Clique aqui e acesse o a solução desenvolvida para a empresa AdventureWorks.</a>
